@@ -10,7 +10,7 @@ inicio
       cont <- 1
       s <-0
       enquanto (cont <= 5) faca
-            escreva("Digite o ", cont, "o. valor: ")
+            escreva("Digite o ", cont, "º valor: ")
             leia (n)
                se (n > maior) entao
                   maior <- n

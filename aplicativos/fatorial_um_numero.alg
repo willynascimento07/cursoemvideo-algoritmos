@@ -12,7 +12,6 @@ inicio
        c <- n
        f <- 1
        repita
-
              f <- f * c
              c <- c - 1
        ate (c<1)
